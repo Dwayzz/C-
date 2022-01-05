@@ -1,0 +1,23 @@
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe.config
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.pdb
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csprojAssemblyReference.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.AddSubtractForm.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.MainForm.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.Properties.Resources.resources
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.GenerateResource.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.CoreCompileInputs.cache
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.exe
+E:\BillyFlash\C#Fall19\Chapters\Chapter 9\Homework 9 Student Partial Solution\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.pdb
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe.config
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.exe
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\bin\Debug\Multiform Calculator.pdb
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csprojAssemblyReference.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.AddSubtractForm.resources
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.MainForm.resources
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.Properties.Resources.resources
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.GenerateResource.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.csproj.CoreCompileInputs.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.exe
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform Calculator.pdb
+E:\ITSE 1330 C#\Homework Assignments\Lesson 10\Multiform Calculator\Multiform Calculator\obj\Debug\Multiform_Calculator.MultiplyDivideForm.resources
