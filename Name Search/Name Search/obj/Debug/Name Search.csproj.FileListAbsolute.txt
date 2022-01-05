@@ -1,0 +1,10 @@
+C:\Users\ilike\Desktop\Name Search\Name Search\obj\Debug\Name Search.csprojAssemblyReference.cache
+C:\Users\ilike\Desktop\Name Search\Name Search\obj\Debug\Name_Search.Form1.resources
+C:\Users\ilike\Desktop\Name Search\Name Search\obj\Debug\Name_Search.Properties.Resources.resources
+C:\Users\ilike\Desktop\Name Search\Name Search\obj\Debug\Name Search.csproj.GenerateResource.cache
+C:\Users\ilike\Desktop\Name Search\Name Search\obj\Debug\Name Search.csproj.CoreCompileInputs.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 7\Name Search\Name Search\obj\Debug\Name Search.csprojAssemblyReference.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 7\Name Search\Name Search\obj\Debug\Name_Search.Form1.resources
+E:\ITSE 1330 C#\Homework Assignments\Lesson 7\Name Search\Name Search\obj\Debug\Name_Search.Properties.Resources.resources
+E:\ITSE 1330 C#\Homework Assignments\Lesson 7\Name Search\Name Search\obj\Debug\Name Search.csproj.GenerateResource.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 7\Name Search\Name Search\obj\Debug\Name Search.csproj.CoreCompileInputs.cache
