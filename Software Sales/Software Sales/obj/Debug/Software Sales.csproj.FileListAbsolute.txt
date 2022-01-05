@@ -1,0 +1,10 @@
+E:\ITSE 1330 C#\Homework Assignments\Lesson 4\Software Sales\Software Sales\bin\Debug\Software Sales.exe.config
+E:\ITSE 1330 C#\Homework Assignments\Lesson 4\Software Sales\Software Sales\bin\Debug\Software Sales.exe
+E:\ITSE 1330 C#\Homework Assignments\Lesson 4\Software Sales\Software Sales\bin\Debug\Software Sales.pdb
+E:\ITSE 1330 C#\Homework Assignments\Lesson 4\Software Sales\Software Sales\obj\Debug\Software Sales.csprojAssemblyReference.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 4\Software Sales\Software Sales\obj\Debug\Software_Sales.discountCalculator.resources
+E:\ITSE 1330 C#\Homework Assignments\Lesson 4\Software Sales\Software Sales\obj\Debug\Software_Sales.Properties.Resources.resources
+E:\ITSE 1330 C#\Homework Assignments\Lesson 4\Software Sales\Software Sales\obj\Debug\Software Sales.csproj.GenerateResource.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 4\Software Sales\Software Sales\obj\Debug\Software Sales.csproj.CoreCompileInputs.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 4\Software Sales\Software Sales\obj\Debug\Software Sales.exe
+E:\ITSE 1330 C#\Homework Assignments\Lesson 4\Software Sales\Software Sales\obj\Debug\Software Sales.pdb
