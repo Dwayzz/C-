@@ -1,0 +1,10 @@
+E:\ITSE 1330 C#\Homework Assignments\Lesson 5\DistanceCalculator\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config
+E:\ITSE 1330 C#\Homework Assignments\Lesson 5\DistanceCalculator\DistanceCalculator\bin\Debug\DistanceCalculator.exe
+E:\ITSE 1330 C#\Homework Assignments\Lesson 5\DistanceCalculator\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+E:\ITSE 1330 C#\Homework Assignments\Lesson 5\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.csprojAssemblyReference.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 5\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.DistanceCalculator.resources
+E:\ITSE 1330 C#\Homework Assignments\Lesson 5\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.Properties.Resources.resources
+E:\ITSE 1330 C#\Homework Assignments\Lesson 5\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.csproj.GenerateResource.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 5\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.csproj.CoreCompileInputs.cache
+E:\ITSE 1330 C#\Homework Assignments\Lesson 5\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.exe
+E:\ITSE 1330 C#\Homework Assignments\Lesson 5\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.pdb
